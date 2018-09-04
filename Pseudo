@@ -1,0 +1,27 @@
+// Global Variables
+    // timerInitial = 00:30
+    // answerCorrect = 0 
+    // answerWrong = 0
+    // answerSkipped = 0
+    // 
+
+// Local Variables
+    // 
+
+// Start game
+    // Needs title
+    // Needs button to Start
+// Start button clicked
+    // Displays clock with 00:30 seconds on it
+        // Clock immediately begins decreasing at 1 second (1000) intervals
+    // Displays 5 questions with multiple choice answers
+        // User selects 1 out of 4 option answers
+            // If selection is the correct answers
+                // Log as correct answer
+            // Else selection is the wrong answer
+                // Log as incorrect answer
+    // Displays done button
+// If clock displays 00:00
+    // Stop
+// Done button clicked
+    // Stop
