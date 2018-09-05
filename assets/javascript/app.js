@@ -11,23 +11,23 @@ $(document).on("click", "#done", function (event) {
 //Questions and multiple choice answers/correct answer
 var questions = [{
 	question: "What does the word for 'hangover' directly translate to in Norwegian?",
-	choices: ["Carpenters in the Head", "2", "3", "4"],
+	choices: ["Carpenters in the Head", "Ringing in the Ear", "A Severe Headache", "A Thing That Has Survived From The Past"],
 	correctAnswer: "Carpenters in the Head"
 }, {
-	question: "Who were the first female brewers?",
-	choices: ["1", "Women", "3", "4"],
+	question: "Who were the first brewers?",
+	choices: ["Monks", "Women", "Gaia", "Fritz Maytag"],
 	correctAnswer: "Women"
 }, {
 	question: "What is the science of brewing beer called?",
-	choices: ["1", "2", "Zymurgy", "4"],
+	choices: ["Drunk", "Kids", "Zymurgy", "Responibilty"],
 	correctAnswer: "Zymurgy"
 }, {
 	question: "What is the oldest brewery in the world?",
-	choices: ["1", "2", "3", "Benedictine Weihenstephan Abbey"],
+	choices: ["Jesus", "Hoegarten", "Chimay", "Benedictine Weihenstephan Abbey"],
 	correctAnswer: "Benedictine Weihenstephan Abbey"
 }, {
 	question: "Beer is composed mostly of what?",
-	choices: ["Water", "2", "3", "4"],
+	choices: ["Water", "Hops", "Yeast", "Malt"],
 	correctAnswer: "Water"
 }];
 //Variables for the game (right/wrong/timer)

@@ -3,16 +3,16 @@
 }
 
 body {
-	background: url(../images/glass.jpg);
+	background: url(../images/maris-otter.jpg);
 	text-align: center;
-	color: white;
+	color: black;
 } 
 
 #container {
 	padding: 5% 0;
     width:600px;
     margin: 75px auto;
-	background: url(../images/maris-otter.jpg);
+	background: url(../images/kisspng-beer-juice-soft-drink-tea-beer-beverage-splash-5a786d1d495bb1.7920593015178416933005.jpg);
 }
 
 #subcontainer {
@@ -77,8 +77,4 @@ h3 {
 
 #play-area h2 {
 	margin-top: 50px;
-}
-
-p {
-	
 }
